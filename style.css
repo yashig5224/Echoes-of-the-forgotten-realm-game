@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cinzel', serif;
+  color: #f5f0e6;
+  overflow-x: hidden;
+  user-select: none;
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.background img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: opacity 1s ease-in-out;
+  filter: brightness(0.6) contrast(1.1) saturate(0.8);
+}
+
+.game-container {
+  background: rgba(30, 25, 20, 0.8);
+  border: 2px solid #9e845d;
+  border-radius: 12px;
+  box-shadow: 0 0 20px #000, inset 0 0 40px rgba(90, 70, 50, 0.4);
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  position: relative;
+  z-index: 1;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #d2ba73;
+  text-shadow: 2px 2px 4px #5c4d2e;
+}
+
+#story {
+  white-space: pre-wrap;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #d2ba73;
+  padding-left: 1rem;
+}
+
+#choices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+#choices button {
+  background: linear-gradient(145deg, #6b5e44, #9e845d);
+  color: #f5f0e6;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 8px;
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 2px 2px 6px #4a442d;
+  transition: background 0.3s ease, box-shadow 0.2s ease;
+  min-width: 120px;
+}
+
+#choices button:hover {
+  background: linear-gradient(145deg, #9e845d, #6b5e44);
+  box-shadow: 0 0 10px #d2ba73;
+}
