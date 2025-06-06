@@ -1,4 +1,4 @@
-                                                                            ## 🏰 Echoes of the Forgotten Realm
+                                              ## 🏰 Echoes of the Forgotten Realm
 ## 🎮 Game Overview
 Echoes of the Forgotten Realm is a fantasy-themed, choice-based adventure game built using HTML, CSS, and JavaScript. Inspired by vintage fantasy tales, it immerses players in a mysterious realm where each decision shapes your journey.
 
