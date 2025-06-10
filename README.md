@@ -1,21 +1,21 @@
-                                              ## 🏰 Echoes of the Forgotten Realm
-## 🎮 Game Overview
+                                              ##  Echoes of the Forgotten Realm
+##  Game Overview
 Echoes of the Forgotten Realm is a fantasy-themed, choice-based adventure game built using HTML, CSS, and JavaScript. Inspired by vintage fantasy tales, it immerses players in a mysterious realm where each decision shapes your journey.
 
-## 🌟 Features
-🧭 Interactive Storytelling: Choose your own fate with branching paths.<br>
-🖼️ Scene-Based Backgrounds: Dynamic visuals enhance immersion at each level.<br>
-🏰 Vintage Fantasy Aesthetic: Medieval fonts, ornate visuals, and parchment textures.<br>
-🎲 Combat System: Dice-based fate battles for chance encounters.<br>
-🌌 Multiple Endings: From heroic triumph to secret transcendence.<br>
-📜 Custom Illustrations: Backgrounds and logo inspired by medieval fantasy art.<br>
+##  Features
+ Interactive Storytelling: Choose your own fate with branching paths.<br>
+ Scene-Based Backgrounds: Dynamic visuals enhance immersion at each level.<br>
+ Vintage Fantasy Aesthetic: Medieval fonts, ornate visuals, and parchment textures.<br>
+ Combat System: Dice-based fate battles for chance encounters.<br>
+ Multiple Endings: From heroic triumph to secret transcendence.<br>
+ Custom Illustrations: Backgrounds and logo inspired by medieval fantasy art.<br>
 
-## 🧱 Built With<br>
+##  Built With<br>
 **HTML5** – semantic layout<br>
 **CSS3** – styled with vintage dark fantasy themes<br>
 **JavaScript** – dynamic storytelling, logic, and user interactions<br>
 
-## 📁 Folder Structure<br>
+## Folder Structure<br>
 Echoes-of-the-Forgotten-Realm/<br>
 ├── index.html<br>
 ├── style.css<br>
@@ -54,18 +54,18 @@ selected **power**:
 selected **wisdom**:
 ![end 2](https://github.com/user-attachments/assets/2cf9d8e8-7aba-4f12-827d-7c1be1a74871)
 
-## 🛠️ Future Enhancements
-🎤 Voice narration<br>
-🧙 Character customization<br>
-🎵 Ambient fantasy background music<br>
-📜 Save/load game progress<br>
+##  Future Enhancements
+ Voice narration<br>
+ Character customization<br>
+ Ambient fantasy background music<br>
+ Save/load game progress<br>
 
-## 📚 Inspiration
+## Inspiration
 The game was inspired by classic role-playing adventures, Tolkien lore, and the aesthetic of antique map illustrations and castle engravings.<br>
 
-## 👩‍💻 Author
+##  Author
 **Yashi Gupta**<br>
 🎓 Computer Engineering Student
 
-## 🤝 Feedback & Collaboration
+## Feedback & Collaboration
 Open to feedback, collaboration, or just a creative chat. Feel free to fork, star, or open issues — let’s build and learn together!
